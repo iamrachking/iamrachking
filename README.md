@@ -26,7 +26,7 @@
   
  - 💬 Ask me about **HTML, CSS, PHP, JavaScript,  Python, Django, Bootstrap , Laravel ** 
   
- - 📫 How to reach me **Abdoulrachard@gmail.com** 
+ - 📫 How to reach me **abdoulrachard@gmail.com** 
  <p align="left"><img src="https://komarev.com/ghpvc/?username=Abdoulrachard&label=Profile%20views&color=0e75b6&style=flat" alt="Abdoulrachard" /> 
  <a href="" ><img src="https://wakatime.com/badge/user/27941e64-b212-4380-a49b-0a4b93dacb1d.svg" alt="Total time coded since Feb 7 2023" /></a> 
  </p> 
@@ -57,16 +57,14 @@
 
  <h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">Statistics</h2>
  
- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abdoulrachard&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Abdoulrachard " /></p> 
+ <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamrachking&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Abdoulrachard " /></p> 
   
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdoulrachard&langs_count=10&theme=radical" alt="Abdoulrachard" /></p> 
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrachking&langs_count=10&theme=radical" alt="Abdoulrachard" /></p> 
   
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdoulrachard&theme=radical" alt="Abdoulrachard " /></p> 
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamrachking&theme=radical" alt="Abdoulrachard " /></p> 
   
  <p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@ANONYMOUSII&theme=radical" alt="anonymous" /></p>
 
   
- ## <p align="center">Support me</p> 
-  
- <p align="center"><a href="https://bmc.link/abdoulrachs"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a></p>
+ > ⚠️ Ancien compte GitHub : [`@Abdoulrachard`](https://github.com/Abdoulrachard) (désactivé)
 
