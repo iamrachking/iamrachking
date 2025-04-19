@@ -17,14 +17,14 @@
   
  <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p> 
   
- - 🔭 I’m currently working on **Readers 
+ - 🔭 I’m currently working on **Musiki 
 , a musique web streaming app** 
   
  - 🌱 I’m currently learning **laravel 10** 
   
  - 👨‍💻 All of my projects are available at [My Portfolio](https://lawingni-rachard.onrender.com) 
   
- - 💬 Ask me about **HTML, CSS, PHP, JavaScript,  Python, Django, Bootstrap , Laravel ** 
+ - 💬 Ask me about **HTML, CSS, PHP, JavaScript,  Python, Django, Bootstrap, Tailwinds , Laravel ** 
   
  - 📫 How to reach me **abdoulrachard@gmail.com** 
  <p align="left"><img src="https://komarev.com/ghpvc/?username=Abdoulrachard&label=Profile%20views&color=0e75b6&style=flat" alt="Abdoulrachard" /> 
