@@ -17,12 +17,12 @@
   
  <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p> 
   
- - 🔭 I’m currently working on **Musiki 
-, a musique web streaming app** 
+ - 🔭 I’m currently working on **Tilda 
+, a recipe mobile app** 
   
- - 🌱 I’m currently learning **laravel 10** 
+ - 🌱 I am currently working on projects in **Flutter** 
   
- - 👨‍💻 All of my projects are available at [My Portfolio](https://lawingni-rachard.onrender.com) 
+ - 👨‍💻 All of my projects are available at [My Portfolio](none) 
   
  - 💬 Ask me about **HTML, CSS, PHP, JavaScript,  Python, Django, Bootstrap, Tailwinds , Laravel ** 
   
