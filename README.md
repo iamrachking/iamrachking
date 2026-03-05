@@ -29,7 +29,7 @@
 - 📫 How to reach me **abdoulrachard@gmail.com**
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Abdoulrachard&label=Profile%20views&color=0e75b6&style=flat" alt="Abdoulrachard" />
-<a href=""><img src="https://wakatime.com/badge/user/27941e64-b212-4380-a49b-0a4b93dacb1d.svg" alt="Total time coded since Feb 7 2023" /></a>
+<a href="https://wakatime.com/@27941e64-b212-4380-a49b-0a4b93dacb1d" target="_blank" rel="noreferrer"><img src="https://wakatime.com/badge/user/27941e64-b212-4380-a49b-0a4b93dacb1d.svg" alt="Total time coded since Feb 7 2023" /></a>
 </p>
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" /></p>
@@ -63,6 +63,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdoulrachard&theme=radical" alt="Abdoulrachard" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@ANONYMOUSII&theme=radical" alt="anonymous" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=27941e64-b212-4380-a49b-0a4b93dacb1d&theme=radical" alt="WakaTime" /></p>
 
 > ⚠️ Ancien compte GitHub : [`@Abdoulrachard`](https://github.com/Abdoulrachard) (désactivé)
