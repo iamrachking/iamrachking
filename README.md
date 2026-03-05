@@ -1,43 +1,40 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm Abdoul LAWINGNI</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm LAWINGNI Rachard</h1>
 <h5 align="center">I am a full stack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bénin. I am a hands-on learner, hence prefer learning new technologies through development. In my free time, I explore new technologies, read tech blogs and solve problems on Data Structures and Algorithms...</h5>
 
 <div id="badges" align="center">
-  <a href="https://github.com/iamrachking" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
   <a href="https://www.linkedin.com/in/rachard-lawingni-ba53b1269" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://x.com/AbdoulRach20738" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-  </a>
-  <a href="https://wonderful.dev/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/wonderful.dev-000?style=for-the-badge&logo=link&logoColor=white" alt="wonderful.dev"/>
+  <a href="https://twitter.com/AbdoulRach20738" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://dev.to/Abdoulrachard" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
+    <img src="https://img.shields.io/badge/Devto-yellow?style=for-the-badge&logo=dev.to&logoColor=white" alt="DevTo Badge"/>
   </a>
   <a href="https://abdoulrachard.medium.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+    <img src="https://img.shields.io/badge/medium-blue?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
 </div>
 
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 
-- 🔭 I'm currently working on **Readers, a musique web streaming app**
-- 🌱 I'm currently learning **Laravel 10**
-- 👨‍💻 All of my projects are available at [My Portfolio](https://lawingni-rachard.onrender.com)
-- 💬 Ask me about **HTML, CSS, PHP, JavaScript, Python, Django, Bootstrap, Laravel**
+- 🔭 I'm currently working on **Tilda, a recipe mobile app**
+
+- 🌱 I am currently working on projects in **Flutter**
+
+- 👨‍💻 All of my projects are available at <a href="https://abdoul-rachard.vercel.app" target="_blank" rel="noreferrer">My Portfolio</a>
+
+- 💬 Ask me about **HTML, CSS, PHP, JavaScript, Python, Django, Bootstrap, Tailwinds, Laravel**
+
 - 📫 How to reach me **abdoulrachard@gmail.com**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iamrachking&label=Profile%20views&color=0e75b6&style=flat" alt="iamrachking" />
-  [![wakatime](https://wakatime.com/badge/user/27941e64-b212-4380-a49b-0a4b93dacb1d.svg)](https://wakatime.com/@27941e64-b212-4380-a49b-0a4b93dacb1d)
+<p align="left"><img src="https://komarev.com/ghpvc/?username=Abdoulrachard&label=Profile%20views&color=0e75b6&style=flat" alt="Abdoulrachard" />
+<a href=""><img src="https://wakatime.com/badge/user/27941e64-b212-4380-a49b-0a4b93dacb1d.svg" alt="Total time coded since Feb 7 2023" /></a>
 </p>
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" /></p>
 
-<h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack</h2>
+<h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">Tech Stack</h2>
 <p align="center">
   <img alt="Vuejs" src="https://img.shields.io/badge/-VueJS-45b8d8?style=flat-square&logo=vue.js&logoColor=white" />
   <img alt="Vite" src="https://img.shields.io/badge/-Vite-ffe500?style=flat-square&logo=vite" />
@@ -58,29 +55,14 @@
   <img alt="Mysql" src="https://img.shields.io/badge/-MySql-1a73e8?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
-<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Statistics</h2>
+<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">Statistics</h2>
 
-<p align="center">
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abdoulrachard&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Abdoulrachard" /></p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=iamrachking&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdoulrachard&langs_count=10&theme=radical" alt="Abdoulrachard" /></p>
 
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdoulrachard&theme=radical" alt="Abdoulrachard" /></p>
 
-<p align="center">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@ANONYMOUSII&theme=radical" alt="anonymous" /></p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrachking&langs_count=10&theme=radical"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamrachking&theme=radical"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=27941e64-b212-4380-a49b-0a4b93dacb1d&theme=radical"/>
-
-</p>
-
+> ⚠️ Ancien compte GitHub : [`@Abdoulrachard`](https://github.com/Abdoulrachard) (désactivé)
