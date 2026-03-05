@@ -60,4 +60,4 @@
 
 <h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Statistics</h2>
 
-<p align="center">[![wakatime](https://wakatime.com/badge/user/27941e64-b212-4380-a49b-0a4b93dacb1d.svg)](https://wakatime.com/@27941e64-b212-4380-a49b-0a4b93dacb1d)</p>
+<p align="center"><img src="https://wakatime.com/badge/user/27941e64-b212-4380-a49b-0a4b93dacb1d.svg" alt="wakatime" /></p>
