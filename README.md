@@ -66,7 +66,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamrachking&theme=radical" alt="iamrachking" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=iamrachking&theme=radical&custom_title=Time%20coded%20this%20week&v=2" alt="WakaTime" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=27941e64-b212-4380-a49b-0a4b93dacb1d&theme=radical&custom_title=Time%20coded%20this%20week&v=2" alt="WakaTime" /></p>
 
 <h2 align="center">Support me</h2>
 <p align="center"><a href="https://bmc.link/abdoulrachs" target="_blank" rel="noreferrer"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" alt="Buy Me A Coffee" /></a></p>
