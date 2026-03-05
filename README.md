@@ -57,12 +57,12 @@
 
 <h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">Statistics</h2>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abdoulrachard&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Abdoulrachard" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamrachking&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Abdoulrachard" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdoulrachard&langs_count=10&theme=radical" alt="Abdoulrachard" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrachking&langs_count=10&theme=radical" alt="Abdoulrachard" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdoulrachard&theme=radical" alt="Abdoulrachard" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamrachking&theme=radical" alt="Abdoulrachard" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=27941e64-b212-4380-a49b-0a4b93dacb1d&theme=radical" alt="WakaTime" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=iamrachking&theme=radical" alt="WakaTime" /></p>
 
 > ⚠️ Ancien compte GitHub : [`@Abdoulrachard`](https://github.com/Abdoulrachard) (désactivé)
