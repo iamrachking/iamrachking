@@ -1,5 +1,5 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm Abdoul Rachard</h1>
-<h5 align="center">Développeur full stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" /> · Abomey, Bénin 🇧🇯<br/>J'apprends en codant — pas de théorie sans pratique. J'explore les nouvelles tech, lis des articles et m'entraîne aux structures de données & algorithmes.</h5>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm Abdoul LAWINGNI</h1>
+<h5 align="center">I am a full stack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bénin. I am a hands-on learner, hence prefer learning new technologies through development. In my free time, I explore new technologies, read tech blogs and solve problems on Data Structures and Algorithms...</h5>
 
 <div id="badges" align="center">
   <a href="https://github.com/iamrachking" target="_blank" rel="noreferrer">
@@ -24,17 +24,15 @@
 
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 
-- 🔭 Je travaille sur **Tilda**, une app mobile de recettes
-- 🌱 Je développe en **Flutter** et j’explore l’écosystème web (Laravel, Vue, etc.)
-- 👨‍💻 Tous mes projets : <a href="https://abdoul-rachard.vercel.app" target="_blank" rel="noreferrer">Mon portfolio</a>
-- 💬 Au programme : **HTML, CSS, PHP, JavaScript, Python, Django, Bootstrap, Tailwind, Laravel**
-- 📫 Me contacter : **abdoulrachard@gmail.com**
+- 🔭 I'm currently working on **Readers, a musique web streaming app**
+- 🌱 I'm currently learning **Laravel 10**
+- 👨‍💻 All of my projects are available at [My Portfolio](https://lawingni-rachard.onrender.com)
+- 💬 Ask me about **HTML, CSS, PHP, JavaScript, Python, Django, Bootstrap, Laravel**
+- 📫 How to reach me **abdoulrachard@gmail.com**
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=iamrachking&label=Profile%20views&color=0e75b6&style=flat" alt="iamrachking" />
-  <a href="https://wakatime.com/@iamrachking" target="_blank" rel="noreferrer">
-    <img src="https://wakatime.com/badge/user/27941e64-b212-4380-a49b-0a4b93dacb1d.svg" alt="WakaTime" />
-  </a>
+  [![wakatime](https://wakatime.com/badge/user/27941e64-b212-4380-a49b-0a4b93dacb1d.svg)](https://wakatime.com/@27941e64-b212-4380-a49b-0a4b93dacb1d)
 </p>
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" /></p>
@@ -70,13 +68,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=iamrachking&theme=radical&custom_title=Time%20coded%20this%20week&v=2" alt="WakaTime" /></p>
 
-<h2 align="center">Support</h2>
+<h2 align="center">Support me</h2>
 <p align="center"><a href="https://bmc.link/abdoulrachs" target="_blank" rel="noreferrer"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" alt="Buy Me A Coffee" /></a></p>
 
----
-
-<details>
-  <summary><b>Ancien compte GitHub</b></summary>
-  <br/>
-  Mon ancien compte est <a href="https://github.com/Abdoulrachard">@Abdoulrachard</a> (désactivé). Là-bas j’avais notamment le projet <strong>Readers</strong> (app web de streaming musical), le portfolio sur <a href="https://lawingni-rachard.onrender.com" target="_blank" rel="noreferrer">Render</a>, et j’apprenais Laravel 10.
-</details>
+> ⚠️ Previous GitHub account: [@Abdoulrachard](https://github.com/Abdoulrachard) (disabled)
