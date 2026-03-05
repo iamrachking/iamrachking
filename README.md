@@ -1,25 +1,31 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm LAWINGNI Rachard</h1>
-<h5 align="center">Développeur full stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" /> · Bénin 🇧🇯<br/>J'apprends en codant — pas de théorie sans pratique. J'explore les nouvelles tech, lis des articles et m'entraîne aux structures de données & algorithmes.</h5>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm Abdoul Rachard</h1>
+<h5 align="center">Développeur full stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" /> · Abomey, Bénin 🇧🇯<br/>J'apprends en codant — pas de théorie sans pratique. J'explore les nouvelles tech, lis des articles et m'entraîne aux structures de données & algorithmes.</h5>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/rachard-lawingni-ba53b1269" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://github.com/iamrachking" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://twitter.com/AbdoulRach20738" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://www.linkedin.com/in/rachard-lawingni-ba53b1269" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/AbdoulRach20738" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="https://wonderful.dev/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/wonderful.dev-000?style=for-the-badge&logo=link&logoColor=white" alt="wonderful.dev"/>
   </a>
   <a href="https://dev.to/Abdoulrachard" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Devto-yellow?style=for-the-badge&logo=dev.to&logoColor=white" alt="DevTo Badge"/>
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
   </a>
   <a href="https://abdoulrachard.medium.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/medium-blue?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
 </div>
 
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 
 - 🔭 Je travaille sur **Tilda**, une app mobile de recettes
-- 🌱 Je développe en **Flutter** et j’explore l’écosystème web
+- 🌱 Je développe en **Flutter** et j’explore l’écosystème web (Laravel, Vue, etc.)
 - 👨‍💻 Tous mes projets : <a href="https://abdoul-rachard.vercel.app" target="_blank" rel="noreferrer">Mon portfolio</a>
 - 💬 Au programme : **HTML, CSS, PHP, JavaScript, Python, Django, Bootstrap, Tailwind, Laravel**
 - 📫 Me contacter : **abdoulrachard@gmail.com**
@@ -27,7 +33,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=iamrachking&label=Profile%20views&color=0e75b6&style=flat" alt="iamrachking" />
   <a href="https://wakatime.com/@iamrachking" target="_blank" rel="noreferrer">
-    <img src="https://wakatime.com/badge/user/27941e64-b212-4380-a49b-0a4b93dacb1d.svg" alt="Total time coded since Feb 7 2023" />
+    <img src="https://wakatime.com/badge/user/27941e64-b212-4380-a49b-0a4b93dacb1d.svg" alt="WakaTime" />
   </a>
 </p>
 
@@ -58,11 +64,19 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamrachking&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="iamrachking" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?@username=iamrachking&langs_count=10&theme=radical" alt="iamrachking" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrachking&langs_count=10&theme=radical" alt="iamrachking" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=@iamrachking&theme=radical" alt="iamrachking" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamrachking&theme=radical" alt="iamrachking" /></p>
 
-<!-- WakaTime: username sans @. Si la carte ne s'affiche pas, active "Display code time publicly" et "Display languages, editors, os, categories publicly" sur https://wakatime.com/settings/profile -->
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@iamrachking&theme=radical&custom_title=Time%20coded%20this%20week&v=2" alt="WakaTime" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=iamrachking&theme=radical&custom_title=Time%20coded%20this%20week&v=2" alt="WakaTime" /></p>
 
-> ⚠️ Ancien compte GitHub : [`@Abdoulrachard`](https://github.com/Abdoulrachard) (désactivé)
+<h2 align="center">Support</h2>
+<p align="center"><a href="https://bmc.link/abdoulrachs" target="_blank" rel="noreferrer"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" alt="Buy Me A Coffee" /></a></p>
+
+---
+
+<details>
+  <summary><b>Ancien compte GitHub</b></summary>
+  <br/>
+  Mon ancien compte est <a href="https://github.com/Abdoulrachard">@Abdoulrachard</a> (désactivé). Là-bas j’avais notamment le projet <strong>Readers</strong> (app web de streaming musical), le portfolio sur <a href="https://lawingni-rachard.onrender.com" target="_blank" rel="noreferrer">Render</a>, et j’apprenais Laravel 10.
+</details>
