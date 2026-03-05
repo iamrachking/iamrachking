@@ -60,4 +60,27 @@
 
 <h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Statistics</h2>
 
-<p align="center"><img src="https://wakatime.com/badge/user/27941e64-b212-4380-a49b-0a4b93dacb1d.svg" alt="wakatime" /></p>
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=iamrachking&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrachking&langs_count=10&theme=radical"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamrachking&theme=radical"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=27941e64-b212-4380-a49b-0a4b93dacb1d&theme=radical"/>
+
+</p>
+
